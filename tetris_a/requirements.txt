@@ -1,0 +1,6 @@
+pytz
+rubicon-objc; sys_platform == "darwin"
+six
+sqlparse
+termcolor
+pygame
